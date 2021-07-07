@@ -1,1 +1,1 @@
-# Bootstrap  (using all bootstrap class in this page)
+# Bootstrap  (using all bootstrap class in this page fullResponsive)
